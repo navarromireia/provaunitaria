@@ -60,7 +60,7 @@ public class Practica1 {
                 comprobar = true;
                 switch (operacion) {
                     case "+":
-                        res = n1 + n2;
+                        res = n2 + n2;
                         break;
                     case "-":
                         res = n1 - n2;
