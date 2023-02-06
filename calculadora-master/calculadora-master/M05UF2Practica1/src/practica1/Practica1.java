@@ -21,7 +21,6 @@ public class Practica1 {
         double res = 0;
         String operacion;
         boolean comprobar = false;
-        System.out.println("HOLA QUE TAL");
 
         do {
 
